@@ -17,9 +17,7 @@ allprojects {
 }
 
 dependencies {
-
-compile 'com.github.VRGsoftUA:RollingLayoutManager:1.0'
-
+    compile 'com.github.VRGsoftUA:RollingLayoutManager:1.0'
 }
 ```
 2. Create an insance of RollingLayoutManager
