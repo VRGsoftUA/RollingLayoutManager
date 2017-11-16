@@ -26,6 +26,6 @@ dependencies {
   RollingLayoutManager rollingLayoutManager = new RollingLayoutManager(this);
   recyclerView.setLayoutManager(rollingLayoutManager);
 ```
-     #### Contributing
+#### Contributing
 * Contributions are always welcome
 * If you want a feature and can code, feel free to fork and add the change yourself and make a pull request
